@@ -1,3 +1,7 @@
 # favorite food
 
-strawberry
+<<<<<<< HEAD
+Lemon
+=======
+Lemon
+>>>>>>> main
